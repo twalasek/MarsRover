@@ -2,7 +2,7 @@ This is the MarsRover Project as defined in the IronHack document
 http:learn.ironhack.com/#/learning_unit/8215
 
 Contributor:
-Tomasz Walasek
+Tomasz Walasek, 
 November 2019
 
 Features:
